@@ -1,0 +1,45 @@
+body{
+    background-color: #DDE6ED;
+}
+h4{
+    color: #526D82;
+}
+h2.header{
+    color: #9DB2BF;
+}
+.header{
+    font-size: 50px;
+}
+.paragraf{
+    font-size: 20x;
+    color: #27374D;
+}
+p{
+    color: #27374D;
+    font-weight: 400;
+    font-size: 20px;
+}
+p strong{
+    color: #27374D;
+}
+p strong.bold{
+    color: #526D82;
+}
+.uppercase{
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #9DB2BF;
+    color: #27374D;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+ul li{
+    color: #526D82;
+    font-size: 20px;
+}
+ul h5{
+    font-size: 20px;
+}
